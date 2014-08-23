@@ -7,6 +7,6 @@ Features
 --------
 * Support push, pop, status, status_json, clear operation.
 * You should config mongo server ip and port in: classpath://mongo.properties file.
-* This project was done three years ago, there maybe lots of improvement now.
+* This project was done 3 years ago, there maybe lots of improvement to do now.
 * This project was used for production.
 * Welcome to push fix or updates and to be a contributor.
